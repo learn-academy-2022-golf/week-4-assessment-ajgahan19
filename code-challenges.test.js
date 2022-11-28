@@ -2,7 +2,7 @@
 
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
-// If you get stuck, please leave comments to help us understand your thought process
+// If you get stuck please leave comments to help us understand your thought process
 
 // Use test driven development to complete the following questions
 // Add appropriate dependencies: $ yarn add jest
